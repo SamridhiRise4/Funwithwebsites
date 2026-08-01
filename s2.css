@@ -1,0 +1,23 @@
+/* Universal selector: sets all text to red */
+* { 
+  color: #fb000d; 
+} 
+
+/* Element selector: turns button blue and text white */
+button { 
+  background-color: blue;
+  color: white; 
+}
+
+/*id Selector*/
+
+#1{
+    color:yellow;
+}
+
+/*class selector*/
+
+
+
+
+
