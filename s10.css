@@ -1,0 +1,15 @@
+div{
+    background-color:pink;
+    height:100px;
+    width:200px;
+    border-radius:15px;
+  
+}
+
+h2{
+    border:dotted;
+    height:29px;
+    width:200px;
+}
+
+/* shorthand (border:width style color)*/

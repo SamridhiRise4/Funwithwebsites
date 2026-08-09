@@ -1,0 +1,10 @@
+div{
+    padding-left:50px;
+    border-color:red;
+    border-width:10px;
+    border-style:dashed;
+}
+
+/* padding(area b/w border and content) */
+
+/*padding:top right bottom left*/
