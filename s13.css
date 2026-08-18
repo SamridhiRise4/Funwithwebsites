@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+}
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border:2px solid black;
+}
+#container{
+    width:800px;
+    height:200px;
+    display:flex;
+    flex-direction:row; 
+    justify-content: flex-start;
+    
+}
+
+
+#box1{
+    background-color:red;
+}
+
+#box2{
+    background-color: green;
+    flex-shrink:2;
+}
+
+#box3{
+    background-color: pink;
+    flex-grow:1;
+  
+}
+
+#box4{
+    background-color: yellow;
+}
+
+#box5{
+    background-color: purple;
+}
+/* flex-direction:row-reverse;
+flex-direction:column;
+flex-direction:column-reverse;
+
+justify-content:flex-end(boxes will be aranged from right end of the container)
+justify-content:center(in middle of the container)
